@@ -5,7 +5,7 @@
     <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-## My Skills
+## Techs
 
 #### Languages:
 
@@ -14,7 +14,3 @@
 #### Workstation Tools:
 
 ![Figma](https://img.shields.io/badge/figma-%23151515.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=151515&logoWidth=-1) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23151515.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF&labelColor=151515&logoWidth=-1) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23151515.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=151515&logoWidth=-1) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23151515.svg?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=151515&logoWidth=-1) ![Notion](https://img.shields.io/badge/Notion-%23151515.svg?style=for-the-badge&logo=notion&logoColor=white&labelColor=151515&logoWidth=-1)
-
-## Contact
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23151515.svg?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=151515&logoWidth=-1)](https://instagram.com/brunoglvm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23151515.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=151515&logoWidth=-1)](https://linkedin.com/in/brunoglvm) [![Gmail](https://img.shields.io/badge/Gmail-%23151515.svg?style=for-the-badge&logo=Gmail&logoColor=D14836&labelColor=151515&logoWidth=-1)](mailto:bgalvaomiranda302@gmail.com)
