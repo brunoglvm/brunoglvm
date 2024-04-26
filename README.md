@@ -15,6 +15,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23151515.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=151515&logoWidth=-1) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23151515.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF&labelColor=151515&logoWidth=-1) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23151515.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=151515&logoWidth=-1) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23151515.svg?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=151515&logoWidth=-1) ![Notion](https://img.shields.io/badge/Notion-%23151515.svg?style=for-the-badge&logo=notion&logoColor=white&labelColor=151515&logoWidth=-1)
 
-#### Studying in this moment:
+#### Currently studying:
 
-![C#](https://img.shields.io/badge/C%23-%23151515.svg?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=151515&logoWidth=-1) ![Node.js](https://img.shields.io/badge/Node.js-%23151515.svg?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=151515&logoWidth=-1)
+![Node.js](https://img.shields.io/badge/Node.js-%23151515.svg?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=151515&logoWidth=-1) ![C#](https://img.shields.io/badge/C%23-%23151515.svg?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=151515&logoWidth=-1)
