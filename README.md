@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-bottom:100px">
     <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&theme=dark&hide_border=true" />
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark&hide_border=true" />
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ## My Skills
@@ -13,8 +13,8 @@
 
 #### Workstation Tools:
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23151515.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=151515&logoWidth=-1) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23151515.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF&labelColor=151515&logoWidth=-1) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23151515.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=151515&logoWidth=-1) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23151515.svg?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=151515&logoWidth=-1) ![Notion](https://img.shields.io/badge/Notion-%23151515.svg?style=for-the-badge&logo=notion&logoColor=white&labelColor=151515&logoWidth=-1)
 
 ## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/brunoglvm) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoglvm) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.bgalvaomiranda302@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23151515.svg?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=151515&logoWidth=-1)](https://instagram.com/brunoglvm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23151515.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=151515&logoWidth=-1)](https://linkedin.com/in/brunoglvm) [![Gmail](https://img.shields.io/badge/Gmail-%23151515.svg?style=for-the-badge&logo=Gmail&logoColor=D14836&labelColor=151515&logoWidth=-1)](mailto:bgalvaomiranda302@gmail.com)
