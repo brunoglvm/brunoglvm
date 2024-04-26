@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&theme=dark" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark" />
- </div>
+    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&theme=dark&hide_border=true" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ## My Skills
 
