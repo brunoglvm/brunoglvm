@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Bruno 👋
+
+I'm a Front-end Developer & UX/UI Designer. <br> My specialty is **designing interfaces using Figma & developing web and mobile applications with React and React Native 💻📱**
 
 <div align="center">
     <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&hide_border=true&theme=nord" alt="Github streak stats" />
