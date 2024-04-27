@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-    <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&theme=dark&hide_border=true&theme=transparent" />
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+    <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&hide_border=true&theme=transparent" />
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 ## Techs
