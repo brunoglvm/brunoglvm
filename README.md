@@ -12,7 +12,7 @@ I'm a Front-end Developer & UX/UI Designer, dedicated to creating seamless digit
 #### Main stack:
 
 <div text-align="justify">
-  <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&labelColor=282D39&logoColor=81a1c1&logoWidth=-1" alt="HTML5">
+<img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&labelColor=282D39&logoColor=81a1c1&logoWidth=-1" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css3&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-282D39?style=for-the-badge&logo=javascript&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-282D39?style=for-the-badge&logo=typescript&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="TypeScript">
