@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-    <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&hide_border=true&theme=transparent" alt="Github streak stats" />
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+    <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&hide_border=true&theme=nord" alt="Github streak stats" />
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=nord" alt="Most used languages" />
 </div>
 
 ## Techs
