@@ -1,4 +1,4 @@
-## Hello, I'm Bruno 👋
+### Hello, I'm Bruno 👋
 
 I'm a Front-end Developer & UX/UI Designer, dedicated to creating seamless digital experiences. <br> My specialty is **designing interfaces with Figma & developing web and mobile apps with React and React Native 💻📱**
 
