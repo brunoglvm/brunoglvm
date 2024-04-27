@@ -11,7 +11,7 @@ I'm a Front-end Developer & UX/UI Designer, dedicated to creating seamless digit
 
 #### Main stack:
 
-<div text-align="justify">
+<div>
     <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&labelColor=282D39&logoColor=81a1c1&logoWidth=-1" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css3&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-282D39?style=for-the-badge&logo=javascript&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="JavaScript">
@@ -25,7 +25,7 @@ I'm a Front-end Developer & UX/UI Designer, dedicated to creating seamless digit
 
 #### Workstation tools:
 
-<div text-align="justify">
+<div>
     <img src="https://img.shields.io/badge/figma-%23282D39.svg?style=for-the-badge&logo=figma&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Figma">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%23282D39.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Adobe Photoshop">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23282D39.svg?style=for-the-badge&logo=visual-studio-code&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Visual Studio Code">
@@ -35,7 +35,7 @@ I'm a Front-end Developer & UX/UI Designer, dedicated to creating seamless digit
 
 #### Currently studying:
 
-<div text-align="justify">
+<div>
     <img src="https://img.shields.io/badge/Node.js-%23282D39.svg?style=for-the-badge&logo=node.js&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Node.js">
     <img src="https://img.shields.io/badge/C%23-%23282D39.svg?style=for-the-badge&logo=csharp&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="C#">
 </div>
