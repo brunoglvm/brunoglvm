@@ -35,4 +35,7 @@ I'm a Front-end/Mobile Developer & UX/UI Designer dedicated to creating seamless
 
 <div>
     <img src="https://img.shields.io/badge/Node.js-%23282D39.svg?style=for-the-badge&logo=node.js&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Node.js">
+    <img src="https://img.shields.io/badge/Linux-%23282D39.svg?style=for-the-badge&logo=linux&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Linux">
+    <img src="https://img.shields.io/badge/Docker-%23282D39.svg?style=for-the-badge&logo=docker&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Docker">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23282D39.svg?style=for-the-badge&logo=postgresql&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="PostgreSQL">
 </div>
