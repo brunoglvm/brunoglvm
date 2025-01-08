@@ -3,8 +3,8 @@
 I'm a Front-end/Mobile Developer & UX/UI Designer dedicated to creating seamless digital experiences. <br> My specialty is **designing interfaces with Figma & developing web and mobile apps with React and React Native 💻📱**
 
 <div align="center">
-    <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoglvm&mode=weekly&hide_border=true&theme=nord" alt="Github streak stats" />
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=nord" alt="Most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brunoglvm&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&theme=nord" height="180em" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=nord" height="180em" alt="Most used languages" />
 </div>
 
 ## Techs
@@ -16,6 +16,7 @@ I'm a Front-end/Mobile Developer & UX/UI Designer dedicated to creating seamless
     <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css3&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-282D39?style=for-the-badge&logo=javascript&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-282D39?style=for-the-badge&logo=typescript&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Node.js-%23282D39?style=for-the-badge&logo=node.js&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Node.js">
     <img src="https://img.shields.io/badge/React-282D39?style=for-the-badge&logo=react&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="React">
     <img src="https://img.shields.io/badge/React_Native-282D39?style=for-the-badge&logo=react&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="React Native">
     <img src="https://img.shields.io/badge/TailwindCSS-282D39?style=for-the-badge&logo=tailwind-css&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="TailwindCSS">
@@ -36,7 +37,6 @@ I'm a Front-end/Mobile Developer & UX/UI Designer dedicated to creating seamless
 #### Currently studying:
 
 <div>
-    <img src="https://img.shields.io/badge/Node.js-%23282D39?style=for-the-badge&logo=node.js&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Node.js">
     <img src="https://img.shields.io/badge/Linux-%23282D39?style=for-the-badge&logo=linux&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Linux">
     <img src="https://img.shields.io/badge/Docker-%23282D39?style=for-the-badge&logo=docker&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Docker">
     <img src="https://img.shields.io/badge/PostgreSQL-%23282D39?style=for-the-badge&logo=postgresql&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="PostgreSQL">
