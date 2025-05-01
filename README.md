@@ -24,6 +24,16 @@ I'm a Full Stack Developer & UX/UI Designer dedicated to creating seamless digit
     <img src="https://img.shields.io/badge/SASS-282D39?style=for-the-badge&logo=SASS&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="SASS" />
 </div>
 
+#### Workstation tools:
+
+<div>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23282D39?style=for-the-badge&logo=visual-studio-code&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/Postman-%23282D39?style=for-the-badge&logo=Postman&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Postman" />
+    <img src="https://img.shields.io/badge/GIT-%23282D39?style=for-the-badge&logo=git&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Git" />
+    <img src="https://img.shields.io/badge/figma-%23282D39?style=for-the-badge&logo=figma&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Figma" />
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%23282D39?style=for-the-badge&logo=adobe%20photoshop&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Adobe Photoshop" />
+</div>
+
 #### Operating Systems:
 
 <div>
