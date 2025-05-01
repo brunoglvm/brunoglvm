@@ -9,7 +9,7 @@ I'm a Full Stack Developer & UX/UI Designer dedicated to creating seamless digit
 
 ## Techs
 
-#### Main stack:
+#### Main Stack:
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&labelColor=282D39&logoColor=81a1c1&logoWidth=-1" alt="HTML5" />
@@ -24,7 +24,7 @@ I'm a Full Stack Developer & UX/UI Designer dedicated to creating seamless digit
     <img src="https://img.shields.io/badge/SASS-282D39?style=for-the-badge&logo=SASS&logoColor=81a1c1&labelColor=282D39&color=282D39&logoWidth=-1" alt="SASS" />
 </div>
 
-#### Workstation tools:
+#### Workstation Tools:
 
 <div>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23282D39?style=for-the-badge&logo=visual-studio-code&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Visual Studio Code" />
@@ -41,7 +41,7 @@ I'm a Full Stack Developer & UX/UI Designer dedicated to creating seamless digit
     <img src="https://img.shields.io/badge/Windows-%23282D39?style=for-the-badge&logo=windows&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Windows" />
 </div>
 
-#### Currently studying:
+#### Currently Studying:
 
 <div>
     <img src="https://img.shields.io/badge/Python-%23282D39?style=for-the-badge&logo=python&logoColor=81a1c1&labelColor=282D39&logoWidth=-1" alt="Python" />
