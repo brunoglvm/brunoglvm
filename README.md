@@ -18,8 +18,8 @@ I'm a Full Stack Developer & UI Designer dedicated to creating seamless digital 
     <img src="https://img.shields.io/badge/TypeScript-282D39?style=for-the-badge&logo=typescript&logoColor=81a1c1" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Node.js-282D39?style=for-the-badge&logo=node.js&logoColor=81a1c1" alt="Node.js" />
     <img src="https://img.shields.io/badge/Next-282D39?style=for-the-badge&logo=next.js&logoColor=81a1c1" alt="Next JS" />
-    <img src="https://img.shields.io/badge/React_Native-282D39?style=for-the-badge&logo=react&logoColor=81a1c1" alt="React Native" />
     <img src="https://img.shields.io/badge/Astro-282D39?style=for-the-badge&logo=astro&logoColor=81a1c1" alt="Astro" />
+    <img src="https://img.shields.io/badge/React_Native-282D39?style=for-the-badge&logo=react&logoColor=81a1c1" alt="React Native" />
     <img src="https://img.shields.io/badge/TailwindCSS-282D39?style=for-the-badge&logo=tailwind-css&logoColor=81a1c1" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/Docker-282D39?style=for-the-badge&logo=docker&logoColor=81a1c1" alt="Docker" />
 </div>
