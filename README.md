@@ -1,6 +1,6 @@
-### Hello, I'm Bruno 👋
+### Hey, I'm Bruno! 👋
 
-I'm a Full Stack Developer & UI Designer dedicated to creating seamless digital experiences. <br> My specialty is **designing interfaces with Figma & developing web and mobile apps with React and React Native 💻📱**
+I design and build seamless digital experiences with a focus on intuitive interfaces and engaging products. 💻📱
 
 ## Techs
 
@@ -39,7 +39,6 @@ I'm a Full Stack Developer & UI Designer dedicated to creating seamless digital 
 #### Currently Studying:
 
 <div>
-    <img src="https://img.shields.io/badge/Nuxt-282D39?style=for-the-badge&logo=nuxt&logoColor=81a1c1" alt="Nuxt JS" />
     <img src="https://img.shields.io/badge/Flutter-282D39?style=for-the-badge&logo=flutter&logoColor=81a1c1" alt="Flutter" />
-    <img src="https://img.shields.io/badge/PostgreSQL-282D39?style=for-the-badge&logo=postgresql&logoColor=81a1c1" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Vue-282D39?style=for-the-badge&logo=vuedotjs&logoColor=81a1c1" alt="Vue" />
 </div>
