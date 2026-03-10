@@ -2,11 +2,6 @@
 
 I'm a Full Stack Developer & UI Designer dedicated to creating seamless digital experiences. <br> My specialty is **designing interfaces with Figma & developing web and mobile apps with React and React Native 💻📱**
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=brunoglvm&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&theme=nord" height="180" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&layout=compact&hide_border=true&theme=nord" height="180" alt="Most used languages" />
-</div>
-
 ## Techs
 
 #### Main Stack:
