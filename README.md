@@ -2,10 +2,10 @@
 
 I design and build seamless digital experiences with a focus on intuitive interfaces and engaging products. 💻📱
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=brunoglvm&include_all_commits=true&count_private=true&hide_border=true&theme=nord" height="180" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&hide=html,css,scss,dockerfile&hide_border=true&theme=nord" height="180" alt="Most used languages" />
-</div>
+</div> -->
 
 ## Techs
 
