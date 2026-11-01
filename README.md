@@ -7,15 +7,15 @@ I design and build seamless digital experiences with a focus on intuitive interf
 #### Development Stack
 
 <div>
-    <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&logoColor=81a1c1" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css&logoColor=81a1c1" alt="CSS3" />
+    <img src="https://img.shields.io/badge/HTML-282D39?style=for-the-badge&logo=html5&logoColor=81a1c1" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-282D39?style=for-the-badge&logo=css&logoColor=81a1c1" alt="CSS" />
     <img src="https://img.shields.io/badge/JavaScript-282D39?style=for-the-badge&logo=javascript&logoColor=81a1c1" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-282D39?style=for-the-badge&logo=typescript&logoColor=81a1c1" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Node.js-282D39?style=for-the-badge&logo=node.js&logoColor=81a1c1" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next-282D39?style=for-the-badge&logo=next.js&logoColor=81a1c1" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js-282D39?style=for-the-badge&logo=next.js&logoColor=81a1c1" alt="Next.js" />
     <img src="https://img.shields.io/badge/Astro-282D39?style=for-the-badge&logo=astro&logoColor=81a1c1" alt="Astro" />
     <img src="https://img.shields.io/badge/React_Native-282D39?style=for-the-badge&logo=react&logoColor=81a1c1" alt="React Native" />
-    <img src="https://img.shields.io/badge/TailwindCSS-282D39?style=for-the-badge&logo=tailwind-css&logoColor=81a1c1" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-282D39?style=for-the-badge&logo=tailwind-css&logoColor=81a1c1" alt="Tailwind CSS" />
 </div>
 
 #### DevOps & Infrastructure
