@@ -8,7 +8,7 @@ I design and build seamless digital experiences with a focus on intuitive interf
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&logoColor=81a1c1" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css3&logoColor=81a1c1" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-282D39?style=for-the-badge&logo=css&logoColor=81a1c1" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-282D39?style=for-the-badge&logo=javascript&logoColor=81a1c1" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-282D39?style=for-the-badge&logo=typescript&logoColor=81a1c1" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Node.js-282D39?style=for-the-badge&logo=node.js&logoColor=81a1c1" alt="Node.js" />
