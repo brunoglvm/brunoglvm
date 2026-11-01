@@ -1,15 +1,10 @@
-### Hey, I'm Bruno! 👋
+# Hey, I'm Bruno! 👋
 
 I design and build seamless digital experiences with a focus on intuitive interfaces and engaging products. 💻📱
 
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=brunoglvm&include_all_commits=true&count_private=true&hide_border=true&theme=nord" height="180" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoglvm&hide=html,css,scss,dockerfile&hide_border=true&theme=nord" height="180" alt="Most used languages" />
-</div> -->
-
 ## Techs
 
-#### Main Stack:
+#### Development Stack
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-282D39?style=for-the-badge&logo=html5&logoColor=81a1c1" alt="HTML5" />
@@ -21,27 +16,30 @@ I design and build seamless digital experiences with a focus on intuitive interf
     <img src="https://img.shields.io/badge/Astro-282D39?style=for-the-badge&logo=astro&logoColor=81a1c1" alt="Astro" />
     <img src="https://img.shields.io/badge/React_Native-282D39?style=for-the-badge&logo=react&logoColor=81a1c1" alt="React Native" />
     <img src="https://img.shields.io/badge/TailwindCSS-282D39?style=for-the-badge&logo=tailwind-css&logoColor=81a1c1" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Docker-282D39?style=for-the-badge&logo=docker&logoColor=81a1c1" alt="Docker" />
 </div>
 
-#### Workstation Tools:
+#### DevOps & Infrastructure
+
+<div>
+    <img src="https://img.shields.io/badge/Linux-282D39?style=for-the-badge&logo=linux&logoColor=81a1c1" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-282D39?style=for-the-badge&logo=git&logoColor=81a1c1" alt="Git" />
+    <img src="https://img.shields.io/badge/Docker-282D39?style=for-the-badge&logo=docker&logoColor=81a1c1" alt="Docker" />
+    <img src="https://img.shields.io/badge/Nginx-282D39?style=for-the-badge&logo=nginx&logoColor=81a1c1" alt="Nginx" />
+</div>
+
+
+#### Workstation Tools
 
 <div>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-282D39?style=for-the-badge&logo=visual-studio-code&logoColor=81a1c1" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Postman-282D39?style=for-the-badge&logo=postman&logoColor=81a1c1" alt="Postman" />
-    <img src="https://img.shields.io/badge/Git-282D39?style=for-the-badge&logo=git&logoColor=81a1c1" alt="Git" />
+    <img src="https://img.shields.io/badge/Sublime_Text-282D39?style=for-the-badge&logo=sublimetext&logoColor=81a1c1" alt="Sublime Text" />
+    <img src="https://img.shields.io/badge/Bruno-282D39?style=for-the-badge&logo=bruno&logoColor=81a1c1" alt="Bruno" />
+    <img src="https://img.shields.io/badge/DBeaver-282D39?style=for-the-badge&logo=dbeaver&logoColor=81a1c1" alt="DBeaver" />
     <img src="https://img.shields.io/badge/Figma-282D39?style=for-the-badge&logo=figma&logoColor=81a1c1" alt="Figma" />
     <img src="https://img.shields.io/badge/Adobe_Photoshop-282D39?style=for-the-badge&logo=adobe-photoshop&logoColor=81a1c1" alt="Adobe Photoshop" />
 </div>
 
-#### Operating Systems:
-
-<div>
-    <img src="https://img.shields.io/badge/Linux-282D39?style=for-the-badge&logo=linux&logoColor=81a1c1" alt="Linux" />
-    <img src="https://img.shields.io/badge/Windows-282D39?style=for-the-badge&logo=windows&logoColor=81a1c1" alt="Windows" />
-</div>
-
-#### Currently Studying:
+#### Currently Studying
 
 <div>
     <img src="https://img.shields.io/badge/Flutter-282D39?style=for-the-badge&logo=flutter&logoColor=81a1c1" alt="Flutter" />
